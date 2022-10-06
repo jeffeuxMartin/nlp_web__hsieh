@@ -1,0 +1,48 @@
+/* 
+@font-face {
+    font-family: ;
+    src: url();
+}
+ */
+
+h1 { color: rgb(0, 50, 67); }
+h2 {
+    text-align: center;
+    /* text-indent: -16em; */
+    margin-top: 0.3em;
+}
+
+p { 
+    text-indent: 3em;
+    color: navy;
+    background-color: yellow;
+}
+
+h2 { color: red; }
+
+fieldset {
+    /* width: 50%; */
+    width: 20em;
+    text-align: center;
+    background-color: rgb(255, 255, 125);
+}
+
+div {
+    border: 2px;
+    border-color: red;
+    font-size: 1.5em;
+    font-family: DFKai-SB;
+    line-height: 2em;
+    padding-bottom: 10.em;
+}
+
+button {
+    text-align: center;
+    margin-left: 7rem;
+    
+}
+
+iframe {
+    margin-top: 1%;
+    margin-left: 1.5rem;
+}
